@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans');
+
+.reset {
+	-fx-pref-width: 61;
+	-fx-pref-height: 61;
+	-fx-background-color: #FF6347;
+	-fx-background-image: url(reset.png);
+	-fx-effect: dropshadow( gaussian , black , 5,0,3,3 );
+
+
+}
+
+.boton {
+	-fx-font-family: 'Fira Sans', sans-serif;
+	-fx-effect: dropshadow( gaussian , black , 5,0,3,3 );
+}
+
+.pane {
+	-fx-background-color: #9FF781;
+}
